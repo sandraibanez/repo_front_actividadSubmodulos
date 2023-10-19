@@ -3,7 +3,7 @@ import logo from 'components/App/logo.svg';
 import 'components/App/App.css';
 
 import ExampleApiView from 'components/ExampleApiView';
-// ========================================================================
+// =========================================================================
 class App extends Component {
   render() {
     return (
